@@ -114,9 +114,6 @@ Before sharing your workspace:
 - `/inputs/` may contain personal screenshots - review before sharing
 - `/context/business.md` contains business details - exclude if sharing publicly
 
-## Contributing
-
-Issues and pull requests welcome! This is a community template for Claude Code users.
 
 ## License
 
